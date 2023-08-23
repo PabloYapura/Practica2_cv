@@ -1,0 +1,46 @@
+ 
+.container{
+
+    max-width: 50%;
+    margin: 0 auto;
+    border: solid 1px;
+    color: black;
+    padding: 100px;
+    
+}
+
+.borde{
+    border-bottom: solid 3px;
+    color: blue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.Imagencv{
+    display: flex;  
+    gap: 20px;
+    align-items: end;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+#foto{
+
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    border: solid 1px;
+    color: black;
+}
+ .presentacion{
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
